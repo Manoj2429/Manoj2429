@@ -21,5 +21,5 @@
 </div>
 <div>
 <img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" alt="lets code">
-<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/44be0047-e877-48db-a2c7-2f02eb833034" alt="scroll down">
+<img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/44be0047-e877-48db-a2c7-2f02eb833034" alt="scroll down">
 </div>
